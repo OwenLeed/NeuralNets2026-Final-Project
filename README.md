@@ -170,8 +170,4 @@ The results motivate three concrete next steps:
 
 ## Acknowledgments
 
-This project was developed as a final project for Artificial Neural Networks & Deep Learning at the Danish Institute for Study Abroad. The OhioT1DM dataset is made available by [Marling and Bunescu (2020)](https://ceur-ws.org/Vol-2675/paper11.pdf). Methodological foundations from [Romano, Patterson, and Candès (2019)](https://arxiv.org/abs/1905.03222) on conformalized quantile regression and [Angelopoulos and Bates (2023)](https://arxiv.org/abs/2107.07511) on conformal prediction.
-
 Claude (Opus 4.7), developed by Anthropic, was used during this project to assist with literature review, methodology brainstorming, and code development. All design decisions, analyses, and final outputs were verified and authored by the human researcher.
-
-# NeuralNets2026-Final-Project
